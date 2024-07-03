@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jakir Hossen</h1>
-<h3 align="center">A passionate Web App developer from Bangladesh</h3>
+<h3 align="center">Programmer || developer || Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakir0hossen&label=Profile%20views&color=0e75b6&style=flat" alt="jakir0hossen" /> </p>
 
