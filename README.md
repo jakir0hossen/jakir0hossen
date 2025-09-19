@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Data Science vs Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science and Machine Learning and Artificial Intelligence**
 
 - 💬 Ask me about **Flutter vs Mern Stack**
 
